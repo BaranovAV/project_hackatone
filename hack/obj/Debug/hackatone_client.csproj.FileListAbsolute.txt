@@ -1,0 +1,9 @@
+D:\MyDocs\!MIPT!\job\hack\hack\bin\Debug\hack.exe.config
+D:\MyDocs\!MIPT!\job\hack\hack\bin\Debug\hack.exe
+D:\MyDocs\!MIPT!\job\hack\hack\bin\Debug\hack.pdb
+D:\MyDocs\!MIPT!\job\hack\hack\obj\Debug\hackatone_client.csprojResolveAssemblyReference.cache
+D:\MyDocs\!MIPT!\job\hack\hack\obj\Debug\hack.Form1.resources
+D:\MyDocs\!MIPT!\job\hack\hack\obj\Debug\hack.Properties.Resources.resources
+D:\MyDocs\!MIPT!\job\hack\hack\obj\Debug\hackatone_client.csproj.GenerateResource.Cache
+D:\MyDocs\!MIPT!\job\hack\hack\obj\Debug\hack.exe
+D:\MyDocs\!MIPT!\job\hack\hack\obj\Debug\hack.pdb
